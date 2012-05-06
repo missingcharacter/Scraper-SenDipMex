@@ -1,0 +1,11 @@
+# encoding: utf-8
+ 
+require 'open-uri'
+require 'awesome_print'
+require 'nokogiri'
+require 'json'
+ 
+ 
+class TwitScraper
+  
+  Fields = [""]
